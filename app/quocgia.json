@@ -1,0 +1,114 @@
+{
+  "quocgia": {
+    "vietnam": {
+      "tenQuocGia": "Việt Nam",
+      "cauHoi": "Vịnh Hạ Long trong hình ảnh thuộc quốc gia nào?",
+      "dapAnA": "Việt Nam",
+      "dapAnB": "Thái Lan",
+      "dapAnC": "Nhật Bản",
+      "dapAnD": "Hàn Quốc",
+      "dapAnDung": "Việt Nam",
+      "hinhAnh": "vietnam",
+      "gioiThieu": "Vịnh Hạ Long nằm ở tỉnh Quảng Ninh, Việt Nam. Đây là một địa danh nổi tiếng với nhiều đảo đá và cảnh quan biển đặc biệt."
+    },
+    "japan": {
+      "tenQuocGia": "Nhật Bản",
+      "cauHoi": "Núi Phú Sĩ trong hình ảnh thuộc quốc gia nào?",
+      "dapAnA": "Hàn Quốc",
+      "dapAnB": "Nhật Bản",
+      "dapAnC": "Trung Quốc",
+      "dapAnD": "Việt Nam",
+      "dapAnDung": "Nhật Bản",
+      "hinhAnh": "japan",
+      "gioiThieu": "Núi Phú Sĩ là ngọn núi nổi tiếng của Nhật Bản và là một biểu tượng của đất nước này."
+    },
+    "korea": {
+      "tenQuocGia": "Hàn Quốc",
+      "cauHoi": "Cung điện Gyeongbokgung trong hình ảnh thuộc quốc gia nào?",
+      "dapAnA": "Nhật Bản",
+      "dapAnB": "Hàn Quốc",
+      "dapAnC": "Thái Lan",
+      "dapAnD": "Pháp",
+      "dapAnDung": "Hàn Quốc",
+      "hinhAnh": "korea",
+      "gioiThieu": "Gyeongbokgung là một cung điện nổi tiếng ở Seoul, Hàn Quốc, là địa điểm lịch sử và văn hóa quan trọng."
+    },
+    "thailand": {
+      "tenQuocGia": "Thái Lan",
+      "cauHoi": "Chùa Wat Arun trong hình ảnh nằm ở quốc gia nào?",
+      "dapAnA": "Thái Lan",
+      "dapAnB": "Việt Nam",
+      "dapAnC": "Singapore",
+      "dapAnD": "Malaysia",
+      "dapAnDung": "Thái Lan",
+      "hinhAnh": "thailand",
+      "gioiThieu": "Wat Arun là một ngôi chùa nổi tiếng nằm bên sông Chao Phraya ở Bangkok, Thái Lan."
+    },
+    "france": {
+      "tenQuocGia": "Pháp",
+      "cauHoi": "Tháp Eiffel trong hình ảnh thuộc quốc gia nào?",
+      "dapAnA": "Ý",
+      "dapAnB": "Anh",
+      "dapAnC": "Pháp",
+      "dapAnD": "Tây Ban Nha",
+      "dapAnDung": "Pháp",
+      "hinhAnh": "france",
+      "gioiThieu": "Tháp Eiffel nằm tại thủ đô Paris của Pháp và là một trong những công trình nổi tiếng nhất thế giới."
+    },
+    "uk": {
+      "tenQuocGia": "Anh",
+      "cauHoi": "Tháp đồng hồ Big Ben trong hình ảnh thuộc quốc gia nào?",
+      "dapAnA": "Pháp",
+      "dapAnB": "Anh",
+      "dapAnC": "Đức",
+      "dapAnD": "Mỹ",
+      "dapAnDung": "Anh",
+      "hinhAnh": "uk",
+      "gioiThieu": "Big Ben là tên thường được dùng để gọi tháp đồng hồ nổi tiếng tại London, thủ đô của Vương quốc Anh."
+    },
+    "usa": {
+      "tenQuocGia": "Hoa Kỳ",
+      "cauHoi": "Tượng Nữ thần Tự do trong hình ảnh thuộc quốc gia nào?",
+      "dapAnA": "Canada",
+      "dapAnB": "Hoa Kỳ",
+      "dapAnC": "Anh",
+      "dapAnD": "Pháp",
+      "dapAnDung": "Hoa Kỳ",
+      "hinhAnh": "usa",
+      "gioiThieu": "Tượng Nữ thần Tự do nằm trên đảo Liberty ở thành phố New York, Hoa Kỳ và là một biểu tượng nổi tiếng của nước Mỹ."
+    },
+    "canada": {
+      "tenQuocGia": "Canada",
+      "cauHoi": "Thác Niagara trong hình ảnh nằm ở quốc gia nào?",
+      "dapAnA": "Canada",
+      "dapAnB": "Hoa Kỳ",
+      "dapAnC": "Brazil",
+      "dapAnD": "Australia",
+      "dapAnDung": "Canada",
+      "hinhAnh": "canada",
+      "gioiThieu": "Thác Niagara nằm trên biên giới giữa Canada và Hoa Kỳ, là một địa điểm tham quan nổi tiếng."
+    },
+    "australia": {
+      "tenQuocGia": "Australia",
+      "cauHoi": "Nhà hát Opera Sydney trong hình ảnh thuộc quốc gia nào?",
+      "dapAnA": "New Zealand",
+      "dapAnB": "Australia",
+      "dapAnC": "Canada",
+      "dapAnD": "Anh",
+      "dapAnDung": "Australia",
+      "hinhAnh": "australia",
+      "gioiThieu": "Nhà hát Opera Sydney nằm tại thành phố Sydney, Australia và là một biểu tượng kiến trúc nổi tiếng."
+    },
+    "brazil": {
+      "tenQuocGia": "Brazil",
+      "cauHoi": "Tượng Chúa Cứu Thế trong hình ảnh nằm ở quốc gia nào?",
+      "dapAnA": "Argentina",
+      "dapAnB": "Brazil",
+      "dapAnC": "Chile",
+      "dapAnD": "Mexico",
+      "dapAnDung": "Brazil",
+      "hinhAnh": "brazil",
+      "gioiThieu": "Tượng Chúa Cứu Thế nằm trên núi Corcovado ở thành phố Rio de Janeiro, Brazil và là một biểu tượng nổi tiếng của đất nước."
+    }
+  }
+}

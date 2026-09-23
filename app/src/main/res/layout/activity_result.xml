@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="25dp"
+    android:background="#EAF6FF">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="🎮 GAME OVER"
+        android:textSize="32sp"
+        android:textStyle="bold"
+        android:textColor="#D32F2F"
+        android:layout_marginBottom="25dp"/>
+
+    <TextView
+        android:id="@+id/tvKetQua"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Kết quả"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:textColor="#172B4D"/>
+
+    <TextView
+        android:id="@+id/tvDiem"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:text="Điểm của bạn: 0"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:textColor="#1565C0"/>
+
+    <TextView
+        android:id="@+id/tvKyLuc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Kỷ lục: 0"
+        android:textSize="20sp"
+        android:textColor="#333333"/>
+
+    <Button
+        android:id="@+id/btnChoiLai"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="35dp"
+        android:text="🔄 CHƠI LẠI"
+        android:textSize="17sp"
+        android:textStyle="bold"/>
+
+    <Button
+        android:id="@+id/btnTrangChu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="🏠 VỀ TRANG CHỦ"
+        android:textSize="17sp"
+        android:textStyle="bold"/>
+
+</LinearLayout>
